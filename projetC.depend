@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1649083521 source:c:\users\sofai\desktop\projetc\projetc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1650567628 source:c:\users\sofai\desktop\projetc\miniprojetc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<stdbool.h>
+
